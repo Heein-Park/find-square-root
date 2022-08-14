@@ -1,0 +1,14 @@
+{
+  "name": "find-square-root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "start": "node program.js"
+  },
+  "author": "Heein Park",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
